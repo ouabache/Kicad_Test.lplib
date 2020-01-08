@@ -1,0 +1,31 @@
+(librepcb_component d327c38b-3931-4247-8d03-b14ea8cb23b0
+ (name "~SYM_Arrow_Normal")
+ (description "created from file---  ./kicad_graphics/F~SYM_Arrow_Normal.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 2345b1e3-62cf-4cce-af81-1f187d986b3a (norm "")
+  (name "default")
+  (description "")
+  (gate e3a5b460-fc00-40f5-8658-91b1631e53bd
+  (symbol bda475b4-5189-423a-a4e8-c37437f278ef)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 719deaac-4d0b-416f-871f-93c2b178a53e (norm "")
+  (name "kicad")
+  (description "")
+  (gate 2029b219-229c-413f-a11e-eb108d61f523
+  (symbol 42ca3622-ef0c-4d82-bef8-f8f95dc88fb3)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

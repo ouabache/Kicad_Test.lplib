@@ -1,0 +1,31 @@
+(librepcb_component 1b7c452c-53d5-4375-bacf-f6798a416b63
+ (name "~SYM_LASER_Small")
+ (description "created from file---  ./kicad_graphics/F~SYM_LASER_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant f28e3954-45fa-4d9a-b325-e04462ada8cb (norm "")
+  (name "default")
+  (description "")
+  (gate 731a4923-3a0e-4cd0-99f1-41b437ba81ab
+  (symbol 3a82c7bf-13b2-494c-8e3a-8fd5ad3ef5c0)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 0d625c06-efe7-46c9-844f-b69a284a142f (norm "")
+  (name "kicad")
+  (description "")
+  (gate 25a9c4e4-3a09-417b-9ea8-b123c673feac
+  (symbol 20376bb4-1b88-4b5b-ba08-83e4eb7a2d03)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

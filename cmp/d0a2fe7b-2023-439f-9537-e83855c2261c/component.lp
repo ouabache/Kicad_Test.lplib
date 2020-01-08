@@ -1,0 +1,31 @@
+(librepcb_component d0a2fe7b-2023-439f-9537-e83855c2261c
+ (name "~SYM_Radio_Waves_Small")
+ (description "created from file---  ./kicad_graphics/F~SYM_Radio_Waves_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant a2f7113f-e159-4075-a392-3b858e148279 (norm "")
+  (name "default")
+  (description "")
+  (gate 36113b49-f38a-404f-b760-5191242a0fda
+  (symbol a5cf8457-d6bc-424c-b251-79d090de098e)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 402866aa-cfa9-4158-b78f-3208845a4b62 (norm "")
+  (name "kicad")
+  (description "")
+  (gate 0f90eb40-dcda-4ad4-a6a7-c9832f0900ff
+  (symbol 3f0329ce-1302-4f0e-b96f-d777727821de)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

@@ -1,0 +1,31 @@
+(librepcb_component 12288d2d-70ce-4746-871b-92dae7bcc9c9
+ (name "~SYM_Arrow45_Tiny")
+ (description "created from file---  ./kicad_graphics/F~SYM_Arrow45_Tiny.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 9df7ffcf-0f8f-4cd7-b20b-b42538718995 (norm "")
+  (name "default")
+  (description "")
+  (gate 06c52e14-299c-4a5a-9212-312dabc6b7c1
+  (symbol 1ccca783-1b6a-419b-9c3f-f0be8440f22f)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 9baa000e-f9f4-452b-8f06-18c954e6ffcb (norm "")
+  (name "kicad")
+  (description "")
+  (gate 10468365-126c-4b30-b4e5-a63095e4a933
+  (symbol 7c6528c1-6b4c-4e6e-a250-d1ba9d4f78d4)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

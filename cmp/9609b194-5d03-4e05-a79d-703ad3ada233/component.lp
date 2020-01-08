@@ -1,0 +1,31 @@
+(librepcb_component 9609b194-5d03-4e05-a79d-703ad3ada233
+ (name "~SYM_Flash_XLarge")
+ (description "created from file---  ./kicad_graphics/F~SYM_Flash_XLarge.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 49cbae90-4fdb-4f64-933e-f3f10380a7ea (norm "")
+  (name "default")
+  (description "")
+  (gate 0e7ebed2-b9d4-45a4-91bf-d6089d0bb3d1
+  (symbol 2802188b-0469-4ec2-9029-65f86585e640)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant d45ae9dd-d13a-4779-b033-224edda435b7 (norm "")
+  (name "kicad")
+  (description "")
+  (gate a108e077-8407-4208-8a4b-bb8685b4fcdb
+  (symbol fe02e719-e81e-4ac4-a79b-ff4f1ce70a6d)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

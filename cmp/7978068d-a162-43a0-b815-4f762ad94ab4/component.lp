@@ -1,0 +1,31 @@
+(librepcb_component 7978068d-a162-43a0-b815-4f762ad94ab4
+ (name "~SYM_Arrow45_Large")
+ (description "created from file---  ./kicad_graphics/F~SYM_Arrow45_Large.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 4ce7508a-be41-4578-88db-49c83a771a54 (norm "")
+  (name "default")
+  (description "")
+  (gate 8a7ce3cc-9298-4f23-b3ca-0dadfe75e9ef
+  (symbol e3e88b7e-063d-462b-96b7-2b3033f733e1)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 67812280-4f1f-4ecd-af3f-de1ff7a890b3 (norm "")
+  (name "kicad")
+  (description "")
+  (gate bd36132a-d6a3-46e2-8422-f7e437703719
+  (symbol a000c83b-73eb-4be2-a011-77e05403c995)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

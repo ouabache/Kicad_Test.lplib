@@ -1,0 +1,31 @@
+(librepcb_component 24000286-0a27-49eb-b2e3-1450a9e20e23
+ (name "~SYM_Radioactive_Large")
+ (description "created from file---  ./kicad_graphics/F~SYM_Radioactive_Large.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant cb802559-2927-4fdb-9684-ca59192b3c94 (norm "")
+  (name "default")
+  (description "")
+  (gate ad31ef80-5045-4f35-b79b-ee1c322ea01d
+  (symbol 4dfe038a-7387-4b21-81b9-0e585631e502)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 18452099-c655-4f49-b6d0-d426c6d01cfb (norm "")
+  (name "kicad")
+  (description "")
+  (gate 08f6dabd-c2ef-4a0f-ae4e-f3559b21eddc
+  (symbol 0b954423-c562-419c-a44e-7bf54850af0b)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

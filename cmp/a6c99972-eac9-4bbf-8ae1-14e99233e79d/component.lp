@@ -1,0 +1,31 @@
+(librepcb_component a6c99972-eac9-4bbf-8ae1-14e99233e79d
+ (name "~SYM_Hot_Small")
+ (description "created from file---  ./kicad_graphics/F~SYM_Hot_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 6401bf82-56a7-4193-95da-987cf0ded9cf (norm "")
+  (name "default")
+  (description "")
+  (gate c64a1460-56f0-463e-8b7d-72218cc4f12b
+  (symbol cc086ebe-1139-48b6-913e-eec8b05b2c1b)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant b5c0e9cf-1a61-4c3a-ad52-d3121e6346af (norm "")
+  (name "kicad")
+  (description "")
+  (gate 3c300a2f-985b-47a3-837f-99fb2e446ec9
+  (symbol 0f3c4974-ddbd-4e8c-a717-31fca506130c)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

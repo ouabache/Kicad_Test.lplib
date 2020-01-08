@@ -1,0 +1,31 @@
+(librepcb_component 2e3bcf37-dd7d-4267-9708-ead075d00192
+ (name "~SYM_Magnet_Large")
+ (description "created from file---  ./kicad_graphics/F~SYM_Magnet_Large.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 4b89baf7-ec9c-4aa6-9d78-9dec43003a50 (norm "")
+  (name "default")
+  (description "")
+  (gate c418ed39-c968-4467-aed5-8e7b85805b8c
+  (symbol 1725b9ed-b4ed-4635-b289-e03f7869c25e)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 7c218cbf-a1d3-48cf-8e37-c1c4d92da4e0 (norm "")
+  (name "kicad")
+  (description "")
+  (gate be6ec327-0dff-4f4e-b421-7adb5a9694c5
+  (symbol c980ac79-d537-48fa-8470-6ed97828941d)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

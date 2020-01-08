@@ -1,0 +1,31 @@
+(librepcb_component af42431f-c1d1-45d9-8ec8-0f437691dba4
+ (name "~SYM_Radioactive_Radiation_Small")
+ (description "created from file---  ./kicad_graphics/F~SYM_Radioactive_Radiation_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 7ff87a88-bc7e-482f-bfa1-bd177b9c3dbe (norm "")
+  (name "default")
+  (description "")
+  (gate d5beb25d-d2e9-4ae9-8c05-494d4ac5dd0e
+  (symbol ae059dd4-0457-4a6a-9641-f4b105866b2b)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 70f5a8b3-0b72-429b-ae14-ca7db2d0a11a (norm "")
+  (name "kicad")
+  (description "")
+  (gate f93c7367-f000-42a0-ab84-c51634e9a762
+  (symbol 529876f8-7061-4dae-a9d8-10ac307beaf0)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

@@ -1,0 +1,31 @@
+(librepcb_component 44411300-3438-42ea-95bb-beeba70a641e
+ (name "~SYM_Earth_Protective_Small")
+ (description "created from file---  ./kicad_graphics/F~SYM_Earth_Protective_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant 4c002a7c-f89a-462b-a9c9-df3e65ef3abb (norm "")
+  (name "default")
+  (description "")
+  (gate 7b05f1d7-a86f-49bd-b41a-3f43625abe23
+  (symbol fcaeb5e4-9fc3-450e-af39-f393bf894bda)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 04607dfc-7733-4241-8c68-076813a17858 (norm "")
+  (name "kicad")
+  (description "")
+  (gate bd9003a5-3117-4d46-ab38-692d2eeed908
+  (symbol b682a3ae-be93-47c9-973d-751beea373d0)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

@@ -1,0 +1,31 @@
+(librepcb_component 0e563b77-acb4-4e00-a0f3-e5e9d540df6f
+ (name "~SYM_ESD_Small")
+ (description "created from file---  ./kicad_graphics/F~SYM_ESD_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant a0958968-46e0-42e0-8f96-390e8286a8b0 (norm "")
+  (name "default")
+  (description "")
+  (gate 7378309e-6f62-48ad-b957-1afe75f3d3eb
+  (symbol e6ab04fa-bb27-4be9-8178-10fd0d277ab8)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 6cc91eff-7bb8-4b41-8fc5-012115953b51 (norm "")
+  (name "kicad")
+  (description "")
+  (gate cda3582a-c8ed-4a8a-a1d3-ead45025d023
+  (symbol 40b4e8cf-fac2-4287-9748-31714b4997d8)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)

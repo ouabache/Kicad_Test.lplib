@@ -1,0 +1,31 @@
+(librepcb_component 78bf8fca-a191-44da-8055-55cda86eaba9
+ (name "~Logo_Open_Hardware_Small")
+ (description "created from file---  ./kicad_graphics/F~Logo_Open_Hardware_Small.csv.\nGenerated with librepcb-parts-generator (generate_cmp.py)")
+ (keywords "   ")
+ (author "John E.")
+ (version "0.1")
+ (created 2019-12-17T00:00:00Z)
+ (deprecated false)
+ (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
+ (schematic_only false)
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (prefix "U")
+ (variant b31d350f-cca2-479b-a158-85388db9e115 (norm "")
+  (name "default")
+  (description "")
+  (gate 67aaf957-7de1-405a-a0e3-4e18ee3abbcf
+  (symbol 5486d51c-a28c-4a72-9af7-da213107437e)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+ (variant 1cc8b151-fb51-4058-9e68-3e967a8295d5 (norm "")
+  (name "kicad")
+  (description "")
+  (gate ea4a96b8-cf11-42a7-bd3c-b6c6c703c1de
+  (symbol 820a5426-ecb8-4e34-96e0-3ab8829bdeba)
+  (position 0.0 0.0) (rotation 0.0) (required true) (suffix "")
+ 
+ )
+ )
+)
