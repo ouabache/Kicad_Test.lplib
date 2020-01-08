@@ -1,0 +1,10 @@
+(librepcb_component_category 6abe12a5-ce94-4822-8763-8640529b2adf
+ (name "Aptix7")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:13:42Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

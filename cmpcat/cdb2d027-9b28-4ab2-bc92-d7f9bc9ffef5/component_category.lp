@@ -1,0 +1,10 @@
+(librepcb_component_category cdb2d027-9b28-4ab2-bc92-d7f9bc9ffef5
+ (name "Misc")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T18:23:09Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

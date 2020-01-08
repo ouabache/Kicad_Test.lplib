@@ -1,0 +1,10 @@
+(librepcb_component_category 5026fb76-c40d-4b33-9bb5-a658a8533a42
+ (name "Driver")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:24:44Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

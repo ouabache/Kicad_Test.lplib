@@ -1,0 +1,10 @@
+(librepcb_component_category 868df103-a954-4296-8ede-16b1fa086e3f
+ (name "Spartan6")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:25:10Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

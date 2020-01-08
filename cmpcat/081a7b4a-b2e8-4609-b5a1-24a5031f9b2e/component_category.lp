@@ -1,0 +1,10 @@
+(librepcb_component_category 081a7b4a-b2e8-4609-b5a1-24a5031f9b2e
+ (name "Cpld")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:20:54Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

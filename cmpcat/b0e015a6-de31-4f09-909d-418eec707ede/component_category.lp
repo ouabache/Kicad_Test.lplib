@@ -1,0 +1,10 @@
+(librepcb_component_category b0e015a6-de31-4f09-909d-418eec707ede
+ (name "Virtex6")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:29:34Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

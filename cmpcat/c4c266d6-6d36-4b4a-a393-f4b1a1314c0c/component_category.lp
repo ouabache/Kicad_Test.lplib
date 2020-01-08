@@ -1,0 +1,10 @@
+(librepcb_component_category c4c266d6-6d36-4b4a-a393-f4b1a1314c0c
+ (name "Lattice")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:44:21Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

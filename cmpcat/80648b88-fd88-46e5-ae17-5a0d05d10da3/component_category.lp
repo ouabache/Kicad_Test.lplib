@@ -1,0 +1,10 @@
+(librepcb_component_category 80648b88-fd88-46e5-ae17-5a0d05d10da3
+ (name "Amplifier")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:10:49Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

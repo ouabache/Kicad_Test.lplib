@@ -1,0 +1,10 @@
+(librepcb_component_category 36a54732-1343-4fdc-9c47-4eba74388f9a
+ (name "Graphics")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:35:23Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category d1b31150-b103-451b-814a-faafa0f30b9b
+ (name "Logic")
+ (description "Kicad digital logic")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-07T15:53:54Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

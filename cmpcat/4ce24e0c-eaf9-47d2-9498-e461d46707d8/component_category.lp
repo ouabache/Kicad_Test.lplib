@@ -1,0 +1,10 @@
+(librepcb_component_category 4ce24e0c-eaf9-47d2-9498-e461d46707d8
+ (name "IEEE")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T17:39:24Z)
+ (deprecated false)
+ (parent d1b31150-b103-451b-814a-faafa0f30b9b)
+)

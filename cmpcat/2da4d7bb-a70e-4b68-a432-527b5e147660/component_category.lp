@@ -1,0 +1,10 @@
+(librepcb_component_category 2da4d7bb-a70e-4b68-a432-527b5e147660
+ (name "Kicad")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-07T15:52:10Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category ae50024f-9df6-4b28-a107-8dd89627273e
+ (name "Intel")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:37:27Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

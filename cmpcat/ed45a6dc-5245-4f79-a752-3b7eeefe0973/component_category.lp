@@ -1,0 +1,10 @@
+(librepcb_component_category ed45a6dc-5245-4f79-a752-3b7eeefe0973
+ (name "NXP")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T03:04:21Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

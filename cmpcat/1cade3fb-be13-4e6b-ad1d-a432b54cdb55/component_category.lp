@@ -1,0 +1,10 @@
+(librepcb_component_category 1cade3fb-be13-4e6b-ad1d-a432b54cdb55
+ (name "Isolator")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:42:27Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category f74d1856-0438-4b56-a3dd-9d3e205dbdaf
+ (name "GPU")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:34:08Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

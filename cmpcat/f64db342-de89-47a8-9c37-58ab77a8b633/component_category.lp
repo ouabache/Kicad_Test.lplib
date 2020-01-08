@@ -1,0 +1,10 @@
+(librepcb_component_category f64db342-de89-47a8-9c37-58ab77a8b633
+ (name "Microsemi")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T03:02:43Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

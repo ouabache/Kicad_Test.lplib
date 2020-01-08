@@ -1,0 +1,10 @@
+(librepcb_component_category b68ba74d-d12f-42ce-9cee-c7c73b54cb28
+ (name "Trans")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T03:28:15Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

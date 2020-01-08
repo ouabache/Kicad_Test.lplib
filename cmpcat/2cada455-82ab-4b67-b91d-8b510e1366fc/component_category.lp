@@ -1,0 +1,10 @@
+(librepcb_component_category 2cada455-82ab-4b67-b91d-8b510e1366fc
+ (name "Xilinx")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T03:30:40Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 1bae1438-b2d3-48f3-98ae-e8c7a4be1f8e
+ (name "DSP")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:32:26Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

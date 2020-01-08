@@ -1,0 +1,10 @@
+(librepcb_component_category ccadb806-4801-4f4c-8b8d-ba206ec51141
+ (name "Virtex7")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:31:31Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

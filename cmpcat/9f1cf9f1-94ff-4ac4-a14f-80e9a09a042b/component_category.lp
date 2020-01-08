@@ -1,0 +1,10 @@
+(librepcb_component_category 9f1cf9f1-94ff-4ac4-a14f-80e9a09a042b
+ (name "Diode")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:20:54Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category b797a525-3ee9-4b7f-bed7-d3cf1aa72f42
+ (name "Kintex7")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:22:55Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

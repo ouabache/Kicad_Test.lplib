@@ -1,0 +1,10 @@
+(librepcb_component_category 55171d91-995e-4e2d-be86-15bed145ac41
+ (name "SPICE")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T03:18:01Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

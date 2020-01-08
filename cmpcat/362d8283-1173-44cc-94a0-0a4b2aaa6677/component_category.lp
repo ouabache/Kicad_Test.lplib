@@ -1,0 +1,10 @@
+(librepcb_component_category 362d8283-1173-44cc-94a0-0a4b2aaa6677
+ (name "Generic")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:51:09Z)
+ (deprecated false)
+ (parent a25faa57-5625-437a-961b-5d71d22e0402)
+)

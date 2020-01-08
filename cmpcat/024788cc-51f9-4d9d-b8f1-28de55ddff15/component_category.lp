@@ -1,0 +1,10 @@
+(librepcb_component_category 024788cc-51f9-4d9d-b8f1-28de55ddff15
+ (name "MCU")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:46:15Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

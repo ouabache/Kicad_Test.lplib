@@ -1,0 +1,10 @@
+(librepcb_component_category d7a66089-b82f-47f9-bc76-ca5b06ee266b
+ (name "Microchip")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:56:38Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

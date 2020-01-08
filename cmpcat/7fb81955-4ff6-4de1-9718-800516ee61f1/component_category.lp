@@ -1,0 +1,10 @@
+(librepcb_component_category 7fb81955-4ff6-4de1-9718-800516ee61f1
+ (name "Display")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:22:54Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

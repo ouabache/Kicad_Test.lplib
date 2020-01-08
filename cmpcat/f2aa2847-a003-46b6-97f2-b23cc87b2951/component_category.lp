@@ -1,0 +1,10 @@
+(librepcb_component_category f2aa2847-a003-46b6-97f2-b23cc87b2951
+ (name "Sensor")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T03:15:25Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 23b3cfd0-efb9-4b11-8953-95c5d2488f80
+ (name "Virtex5")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T05:27:13Z)
+ (deprecated false)
+ (parent 2cada455-82ab-4b67-b91d-8b510e1366fc)
+)

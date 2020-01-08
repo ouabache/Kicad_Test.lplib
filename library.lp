@@ -1,0 +1,10 @@
+(librepcb_library bc3f8482-6a51-4764-a92e-416b83940136
+ (name "Kicad")
+ (description "kicad conversion test lib\n\nReleased under CC-BY-SA 4.0 License")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-07T15:51:24Z)
+ (deprecated false)
+ (url "")
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 9952b23c-5e6e-4368-811b-28bcd22c0630
+ (name "Interface")
+ (description "")
+ (keywords "")
+ (author "John Eaton")
+ (version "0.1")
+ (created 2020-01-08T02:40:17Z)
+ (deprecated false)
+ (parent 2da4d7bb-a70e-4b68-a432-527b5e147660)
+)
