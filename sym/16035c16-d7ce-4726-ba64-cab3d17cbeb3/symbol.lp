@@ -52,7 +52,7 @@
   (width 0.25) (fill false) (grab_area true)  (diameter 4.064)  (position -7.112 0.0)
  )
  (text a6856d71-f6b6-4446-bbcf-540404f99395 (layer sym_names) (value "{{NAME}}")
-  (align center bottom) (height 2.54) (position -15.24 10.16) (rotation 0.0)
+  (align center bottom) (height 2.54) (position -15.24 0.0) (rotation 0.0)
  )
  (text 34b42d0f-584b-4069-8b6e-38f9dc807aa1 (layer sym_values) (value "{{VALUE}}")
   (align center top) (height 2.54) (position -15.24 -10.16) (rotation 0.0)

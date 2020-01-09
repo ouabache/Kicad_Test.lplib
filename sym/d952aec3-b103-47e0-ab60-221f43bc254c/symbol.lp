@@ -56,7 +56,7 @@
   (vertex (position -7.62 -5.08) (angle 0.0))
  )
  (text 1d86380e-47f4-441f-be04-68f570e380e2 (layer sym_names) (value "{{NAME}}")
-  (align center bottom) (height 2.54) (position -10.16 10.16) (rotation 0.0)
+  (align center bottom) (height 2.54) (position -10.16 7.62) (rotation 0.0)
  )
  (text 84d11506-e41a-4b34-bb5f-f92bedaf68bc (layer sym_values) (value "{{VALUE}}")
   (align center top) (height 2.54) (position -10.16 -10.16) (rotation 0.0)

@@ -56,6 +56,6 @@
   (align center bottom) (height 2.54) (position -15.24 7.62) (rotation 0.0)
  )
  (text 26c33e9a-d849-4000-b4ea-bb732da9a0bb (layer sym_values) (value "{{VALUE}}")
-  (align center top) (height 2.54) (position -15.24 -7.62) (rotation 0.0)
+  (align center top) (height 2.54) (position -15.24 -13.716) (rotation 0.0)
  )
 )
