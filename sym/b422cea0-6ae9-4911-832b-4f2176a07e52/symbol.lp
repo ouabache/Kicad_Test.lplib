@@ -6,7 +6,7 @@
  (version "0.1")
  (created 2019-12-17T00:00:00Z)
  (deprecated false)
- (category eacf6eaf-2867-46ac-bd58-975720044280)
+ (category b68ba74d-d12f-42ce-9cee-c7c73b54cb28)
  (pin b3c030d1-23c3-4e04-84d2-4919f04b3aed (name "PS")
   (position 5.08 -10.16) (rotation 90.0) (length 5.08)
  )
