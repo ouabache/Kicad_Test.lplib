@@ -360,7 +360,7 @@
   (vertex (position -2.54 -55.626) (angle 0.0))
  )
  (polygon b6bfad03-6493-4e09-b814-d6f8a6d325ed (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -2.032 -80.264) (angle 0.0))
   (vertex (position 2.032 -80.264) (angle 0.0))
  )

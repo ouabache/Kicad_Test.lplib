@@ -32,7 +32,7 @@
   (position 0.0 15.24) (rotation 270.0) (length 5.08)
  )
  (polygon af3cc413-d5cf-457d-8218-e5e5c757cb79 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -10.16 15.24) (angle 0.0))
   (vertex (position -10.16 -15.24) (angle 0.0))
   (vertex (position 20.32 0.0) (angle 0.0))

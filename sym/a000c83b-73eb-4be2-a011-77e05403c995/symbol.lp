@@ -8,7 +8,7 @@
  (deprecated false)
  (category 36a54732-1343-4fdc-9c47-4eba74388f9a)
  (polygon 1112bc50-554e-4030-a943-c27237017638 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -5.08 5.08) (angle 0.0))
   (vertex (position 4.572 -4.572) (angle 0.0))
  )

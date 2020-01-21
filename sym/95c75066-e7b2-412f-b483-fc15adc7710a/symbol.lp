@@ -239,7 +239,7 @@
   (vertex (position -2.54 -9.906) (angle 0.0))
  )
  (polygon 27ed5f74-f755-47ff-874d-a4c0cf5529f3 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -2.032 -54.864) (angle 0.0))
   (vertex (position 2.032 -54.864) (angle 0.0))
  )

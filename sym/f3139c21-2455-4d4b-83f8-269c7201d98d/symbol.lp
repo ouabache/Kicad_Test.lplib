@@ -88,7 +88,7 @@
   (vertex (position -10.16 -17.78) (angle 0.0))
  )
  (polygon 04871348-10a3-42a2-9d32-50b96ecdabb1 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -7.62 12.7) (angle 0.0))
   (vertex (position -7.62 15.24) (angle 0.0))
   (vertex (position -10.16 15.24) (angle 0.0))

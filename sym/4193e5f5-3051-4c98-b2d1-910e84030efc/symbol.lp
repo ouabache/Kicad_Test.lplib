@@ -41,7 +41,7 @@
   (vertex (position -2.54 0.254) (angle 0.0))
  )
  (polygon cd1cd14a-83d2-4796-9653-229160dfed42 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position 0.508 -4.064) (angle 0.0))
   (vertex (position 4.572 -4.064) (angle 0.0))
  )

@@ -34,7 +34,7 @@
   (vertex (position -10.16 10.16) (angle 0.0))
  )
  (polygon 33ff9647-9be8-48d3-b16e-77daa3f644e3 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -9.144 -1.016) (angle 0.0))
   (vertex (position -7.62 -1.016) (angle 0.0))
   (vertex (position -7.62 1.524) (angle 0.0))

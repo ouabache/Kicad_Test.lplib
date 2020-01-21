@@ -140,7 +140,7 @@
   (vertex (position -2.54 -9.906) (angle 0.0))
  )
  (polygon 479b439a-bcc3-45a3-89e8-61a696a43c60 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -2.032 -29.464) (angle 0.0))
   (vertex (position 2.032 -29.464) (angle 0.0))
  )

@@ -120,7 +120,7 @@
   (vertex (position -12.7 -35.56) (angle 0.0))
  )
  (polygon 0b9f3e59-d352-43e5-91bd-10fe11b8b87f (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -10.16 5.08) (angle 0.0))
   (vertex (position -10.16 7.62) (angle 0.0))
   (vertex (position -12.7 7.62) (angle 0.0))

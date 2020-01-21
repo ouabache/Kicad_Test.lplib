@@ -811,7 +811,7 @@
   (vertex (position -2.54 -55.626) (angle 0.0))
  )
  (polygon db910d1a-eef3-4d16-af87-2a5d23fb97b1 (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position 0.508 -95.504) (angle 0.0))
   (vertex (position 4.572 -95.504) (angle 0.0))
  )

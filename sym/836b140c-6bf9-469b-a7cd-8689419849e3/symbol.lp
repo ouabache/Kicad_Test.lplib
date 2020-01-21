@@ -393,7 +393,7 @@
   (vertex (position -2.54 -9.906) (angle 0.0))
  )
  (polygon a8ac5623-c93f-4063-89b4-e528c32cadce (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position 0.508 -44.704) (angle 0.0))
   (vertex (position 4.572 -44.704) (angle 0.0))
  )

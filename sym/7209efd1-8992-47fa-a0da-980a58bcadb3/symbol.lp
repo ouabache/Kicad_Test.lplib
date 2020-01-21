@@ -64,7 +64,7 @@
   (vertex (position -12.7 15.24) (angle 0.0))
  )
  (polygon 4c9054f0-64f6-45eb-9e44-8b983202366d (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position -2.54 15.24) (angle 0.0))
   (vertex (position -2.54 -2.54) (angle 0.0))
   (vertex (position -12.7 -2.54) (angle 0.0))

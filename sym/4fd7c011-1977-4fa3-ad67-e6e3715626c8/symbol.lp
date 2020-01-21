@@ -569,7 +569,7 @@
   (vertex (position -2.54 -55.626) (angle 0.0))
  )
  (polygon eac81ff7-f544-491e-8dee-80990f52e5cb (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position 0.508 -65.024) (angle 0.0))
   (vertex (position 4.572 -65.024) (angle 0.0))
  )

@@ -195,7 +195,7 @@
   (vertex (position -2.54 -9.906) (angle 0.0))
  )
  (polygon 206006b0-30da-4de2-a75e-9bd0a4bed0df (layer sym_outlines)
-  (width 0.25) (fill false) (grab_area true)
+  (width 0.25) (fill false) (grab_area false)
   (vertex (position 0.508 -24.384) (angle 0.0))
   (vertex (position 4.572 -24.384) (angle 0.0))
  )
